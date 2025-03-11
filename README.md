@@ -4,11 +4,11 @@
 🔹 **AI/ML Engineer & IoT Developer**   
 📍 Pre-Final Year B-Tech Student @ IIIT Chennai | Mechatronics
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Subhashbisnoi&label=Profile%20Views&color=blue&style=flat) -->
+ ![Profile Views](https://komarev.com/ghpvc/?username=Subhashbisnoi&label=Profile%20Views&color=blue&style=flat) 
 - 🔭 Currently working on **AI-driven IoT & Autonomous Systems**  
 - 🌱 Exploring **Generative AI, Agentic AI, Edge AI, LLMs, and Embedded Intelligence**  
-🤖 Passionate about **building AI-powered automation and intelligent systems**  
-🤝 Looking to collaborate on **AI-powered IoT projects & innovative ML applications**  
+- 🤖 Passionate about **building AI-powered automation and intelligent systems**  
+- 🤝 Looking to collaborate on **AI-powered IoT projects & innovative ML applications**  
 - 💬 Ask me about **AI, IoT, Machine Learning, Neural Networks, Predictive Analytics, Embedded Systems**    
 
 ---
