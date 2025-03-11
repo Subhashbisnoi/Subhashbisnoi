@@ -1,8 +1,8 @@
 
 # Hi 👋, I'm Subhash Bishnoi
 
-🔹 **AI/ML Engineer & IoT Developer** | Co-founder @ CollabUp  
-📍 Pre-Final Year B-Tech Student @ IIIT Chennai  
+🔹 **AI/ML Engineer & IoT Developer**   
+📍 Pre-Final Year B-Tech Student @ IIIT Chennai | Mechatronics
 
 - 🔭 Currently working on **AI-driven IoT & Autonomous Systems**  
 - 🌱 Exploring **Generative AI, Agentic AI, Edge AI, LLMs, and Embedded Intelligence**  
