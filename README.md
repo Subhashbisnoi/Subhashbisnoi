@@ -2,6 +2,7 @@
 # Hi 👋, I'm Subhash Bishnoi
 
 🔹 **AI/ML Enthusiast**
+
 📍 Pre-Final Year B-Tech Student @ IIIT Chennai | Mechatronics
 
  ![Profile Views](https://komarev.com/ghpvc/?username=Subhashbisnoi&label=Profile%20Views&color=blue&style=flat) 
