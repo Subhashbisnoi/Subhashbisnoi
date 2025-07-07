@@ -38,6 +38,7 @@
 
 📧 **Email:** me22b2044@iiitdm.ac.in  
 💼 **LinkedIn:** [Subhash Bishnoi](https://www.linkedin.com/in/subhash-bishnoi-a068a42b1/)
+
 📱 **Mobile:** 8955759727
 ---
 
