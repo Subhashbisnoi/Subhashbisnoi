@@ -2,7 +2,7 @@
 
 🔹 **AI / Full-Stack Engineer | AI-Native Systems Builder**
 
-📍 Final Year B.Tech @ **IIIT Chennai** (Smart Manufacturing)  
+📍 Final Year B.Tech @ **IIIT Chennai** 
 🎯 Building **production-grade AI platforms**, not just models
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Subhashbisnoi&label=Profile%20Views&color=blue&style=flat)
