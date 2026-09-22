@@ -217,6 +217,26 @@ class SubhashBishnoi:
      GITHUB STATS
 ═══════════════════════════════════════════════════════════════ -->
 
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30" /> GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Subhashbisnoi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&custom_title=GitHub%20Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Subhashbisnoi&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=FF6B6B&currStreakLabel=00d9ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9" />
+
+<br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Subhashbisnoi&layout=compact&langs_count=10&hide_border=true&title_color=00d9ff&text_color=c9d1d9&bg_color=0d1117&custom_title=Most%20Used%20Languages" />
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Subhashbisnoi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&custom_title=Contribution%20Activity" />
+
+<br/>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Subhashbisnoi&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════
      CONTRIBUTION SNAKE  (requires the workflow — see setup notes)
